@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @idansasson
-- 👀 I’m interested in QA Automation learning
+- 👀 I’m interested in QA Automation
 - 🌱 I’m currently learning QA Automation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 mailto:idansasson@gmail.com
 
 <!---
 idansasson/idansasson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
